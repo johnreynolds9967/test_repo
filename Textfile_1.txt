@@ -3,4 +3,8 @@ Hello World! Changes
 Hi Im 1
 
 Merge this 1
+<<<<<<< HEAD
 PLEASE
+=======
+Hello1
+>>>>>>> 879f454c1d67efab8e0607b6f809680ee6ce8d69
